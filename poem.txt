@@ -3,6 +3,7 @@ Blue
 Orange
 Pink
 Yellow
+Purple
 Green
 
 Colors of rainbow 
