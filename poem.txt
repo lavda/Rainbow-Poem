@@ -1,6 +1,7 @@
 Red
 Blue
 Orange
+Pink
 Yellow
 Green
 
